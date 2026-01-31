@@ -37,3 +37,21 @@ print (a < b)
 print (a >= b)
 print (a <= b)
 
+"""
+#
+# Part : Python Operators
+# Logical Operators
+#
+"""
+x = True
+y = False
+
+print(x and y)
+print(x or y)
+print(not x)
+print(x & y)
+print(x | y)
+print(~x)
+a = 5
+b = 10
+print((a < 10) and (b > 5))
